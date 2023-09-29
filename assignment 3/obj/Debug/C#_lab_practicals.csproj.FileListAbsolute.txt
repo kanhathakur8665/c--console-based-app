@@ -1,0 +1,8 @@
+E:\c#\C#_lab_practicals\bin\Debug\C#_lab_practicals.exe.config
+E:\c#\C#_lab_practicals\bin\Debug\C#_lab_practicals.exe
+E:\c#\C#_lab_practicals\bin\Debug\C#_lab_practicals.pdb
+E:\c#\C#_lab_practicals\obj\Debug\C#_lab_practicals.csproj.AssemblyReference.cache
+E:\c#\C#_lab_practicals\obj\Debug\C#_lab_practicals.csproj.SuggestedBindingRedirects.cache
+E:\c#\C#_lab_practicals\obj\Debug\C#_lab_practicals.csproj.CoreCompileInputs.cache
+E:\c#\C#_lab_practicals\obj\Debug\C#_lab_practicals.exe
+E:\c#\C#_lab_practicals\obj\Debug\C#_lab_practicals.pdb
